@@ -1,5 +1,3 @@
-import cors from "cors"
-
 const allowedOrigins = [
   "https://yourfrontend.com",
   "https://admin.yourfrontend.com"
@@ -19,3 +17,5 @@ const corsOptions = {
   credentials: true,
   optionsSuccessStatus: 204
 };
+
+export default corsOptions;
