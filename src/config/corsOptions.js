@@ -1,6 +1,6 @@
 const allowedOrigins = [
-  "https://yourfrontend.com",
-  "https://admin.yourfrontend.com"
+  "https://generateinfoportfolio.netlify.app",
+  "https://generate-portfolio-backend-delta.vercel.app/"
 ];
 
 const corsOptions = {
